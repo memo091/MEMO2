@@ -6,10 +6,3 @@ hi people
 hi guys
 =======
 new branch
-<<<<<<< HEAD
-hallo babe
-hi mann
->>>>>>> loly_2
-=======
-hi lol
->>>>>>> loly_3
