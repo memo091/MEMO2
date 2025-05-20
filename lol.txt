@@ -1,5 +1,11 @@
 hi people
 continued working on master branch
 hi loly1
+<<<<<<< HEAD
 hi people
 hi guys
+=======
+new branch
+hallo babe
+hi mann
+>>>>>>> loly_2
